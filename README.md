@@ -18,14 +18,15 @@ unixReviewTime - time of the review (unix time)
 reviewTime - time of the review (raw)
 
 ## Task
-You have to perform Sentimental Analysis for this data. Help the organization to understand better about their customer feedback's So that they can concentrate on those issues customer's are facing. Build the model which has highest accuracy in classifying the feedback as positive,Negative and neutral.
+You have to perform Sentimental Analysis for this data. Help the organization to understand better about their customer feedback's So that they can concentrate on those issues customer's are facing. Build the model which has highest accuracy in classifying the feedback as positive,Negative and neutral. (neutral = 3, positive>3, negative<3)
 
-Task :1
-You have to categorize opinions expressed in feedback forums
 
-Task :2
-You have to classify individual comments/reviews and you have to determine overall rating based on individual
-comments/reviews.
+To help prepare the report, the below questions could be used.
+- Average rating points for each product
+- Standard deviation for ratings
+- Count of positive ratings (neutral = 3, positive>3,negative<3)
+- Count of different products
+- The product which has the highest rating score
 
 ## Inspiration
 This is the Problem Statement given by ISRO to classify the customer comments. This would be helpful for the organization to understand Customer feedbacks.
